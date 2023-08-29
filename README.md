@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexlzn2003/?hl=en)
 
 ![AlexLzn03 GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexLzn03&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLzn03&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLzn03&layout=compact&theme=github_dark)
 
 ## Tecnologias que estou apreendendo 👨‍💻
 
